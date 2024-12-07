@@ -1,2 +1,8 @@
 # SleepExperiment
-Master eksperiment på søvn
+Master eksperiment på søvn til master oppgave
+
+
+Eksperimentets varighet fra dato: 
+
+Torsdag 21.november
+Torsdag 5.desember
